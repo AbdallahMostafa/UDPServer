@@ -1,1 +1,1 @@
-# UDPServer
+# A small NodeJS application to to establish a socket with UDP protocol and send a message to it using the terminal
